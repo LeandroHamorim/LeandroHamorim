@@ -2,11 +2,11 @@
 
 ### Hi there 👋, my name is Leandro,
 #### I'm a passionate Computer Science student, high-tech enthusiast and a cat lover 🐱
-![I'm a passionate Computer Science student, high tech enthusiast and a cat lover 🐱](https://webenezer.com.br/wp-content/uploads/2019/02/Important-Things-to-Look-For-When-Selecting-a-Web-Development-Company.png)
+![img tech man](https://webenezer.com.br/wp-content/uploads/2019/02/Important-Things-to-Look-For-When-Selecting-a-Web-Development-Company.png)
 
 
-- 🔭 I’m currently learning backend development with Java and Spring
-- 🤝 ...And looking for intership oportunities
+ 🔭 I’m currently learning backend development with Java and Spring;
+- 🤝 And looking for intership oportunities
 
 
 <br/>
