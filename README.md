@@ -6,8 +6,6 @@
 
 
  🔭 I’m currently learning backend development with Java and Spring;
-- 🤝 And looking for intership oportunities
-
 
 <br/>
 
