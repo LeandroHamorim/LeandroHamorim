@@ -1,13 +1,7 @@
 <div align="center">
 
 ### Hi there 👋, my name is Leandro,
-#### I'm a passionate Computer Science student, high-tech enthusiast and a cat lover 🐱
-![img tech man](https://webenezer.com.br/wp-content/uploads/2019/02/Important-Things-to-Look-For-When-Selecting-a-Web-Development-Company.png)
-
-
- 🔭 I’m currently learning backend development with Java and Spring;
-
-<br/>
+#### I'm a passionate Software Engineer, high-tech enthusiast and a cat lover 😽
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHamorim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
